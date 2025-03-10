@@ -22,16 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub" alt="GitHub Trophies" />
-</p>
-
----
-
 <h1 align="center">Xin chào, tôi là Mạnh! 👋</h1>
 
 ## 🌟 Giới Thiệu
@@ -46,19 +36,3 @@
 - 🛒 **Dự án cá nhân**: Trang web **Mua bán tài khoản game & dịch vụ MXH/game** sử dụng **MERN Stack**, deployed tại **[manhcr7.com](https://manhcr7.com)**.
 - 🎶 Đam mê **công nghệ, âm nhạc, thể thao và hoạt động xã hội**.
 - ❤️ Thường xuyên **hiến máu nhân đạo**.
-
----
-
-## 🚀 Liên Hệ Với Tôi
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
