@@ -10,7 +10,7 @@
 I'm a 3rd-year Information Technology student at FPT Greenwich Vietnam (Hanoi). From building my first website to now conducting research, I'm constantly expanding my knowledge across various IT domains. I'm passionate about applying what I learn to create practical solutions while continuously developing both my technical and soft skills.
 
 ```javascript
-const manh = {
+const nguyenDucManh = {
   education: "Greenwich University Vietnam - Hanoi Campus",
   year: "3rd year student",
   major: "Information Technology",
@@ -90,7 +90,7 @@ const manh = {
 
 ## 📫 Connect With Me
 
-- GitHub: [@ManhCR7](https://github.com/ManhCR7)
+- GitHub: [@manhreal](https://github.com/manhreal)
 - Website: [manhcr7.com](https://manhcr7.com)
 
 ---
